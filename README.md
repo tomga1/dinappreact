@@ -1,4 +1,23 @@
-# React + Vite
+🚀 Dinapp – Frontend
+
+Bienvenido al frontend de Dinapp, una aplicación moderna desarrollada con tecnologías de vanguardia para una experiencia de usuario rápida, responsiva y elegante.
+
+🛠️ Tecnologías Utilizadas
+
+⚛️ React – 
+
+⚡ Vite – Empaquetador ultrarrápido para desarrollo moderno.
+
+🎨 TailwindCSS – Framework de estilos utilitario para diseño responsivo.
+
+💡 Flowbite – Componentes UI listos para usar y compatibles con TailwindCSS.
+
+
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
